@@ -36,22 +36,22 @@ header p{
 }
 
 .pad1{
-    background: #60d394;
+    background: red;
 }
 .pad2{
-    background: #d36060;
+    background: orange;
 }
 .pad3{
-    background: #c060d3;
+    background: green;
 }
 .pad4{
-    background: #6860d3;
+    background: yellow;
 }
 .pad5{
-    background: #90ec17;
+    background: blue;
 }
 .pad6{
-    background: #e2d406;
+    background: purple;
 }
 
 .visual > div{

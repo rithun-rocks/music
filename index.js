@@ -3,12 +3,12 @@ window.addEventListener('load', () => {
     const pads = document.querySelectorAll(".pads div");
     const visual = document.querySelector(".visual");
     const colors = [
-        "#60d394",
-        "#d36060",
-        "#c060d3",
-        "#6860d3",
-        "#90ec17",
-        "#e2d406"
+        "red",
+        "orange",
+        "green",
+        "yellow",
+        "blue",
+        "purple"
     ];
 
     //ADD sound
